@@ -1,5 +1,3 @@
-import 'dart:collection';
-
 void main() {
   int num1 =
       20; //Declaration of a variable of datatype int it's used for whole numbers
